@@ -10,10 +10,8 @@ const meuNome = "Tamiris";
 console.log(citacao + meuNome)
 
 
-
 //template string OU template literal, terceira 
 //forma de escreve string
-
 
 const cidade = "belo horizonte";
 const input = "Belo Horizonte";

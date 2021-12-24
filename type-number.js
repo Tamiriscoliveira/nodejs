@@ -15,5 +15,5 @@ console.log(novaOperacao)
 
 //NaN => Not A Number (não é um número)
 const Teste = "TeamLC";
-console.log(Teste * primeiroNumero)
+console.log(Teste * primeiroNumero)  
 
